@@ -1,5 +1,10 @@
-## Assignment Instructions
-Details about this assignment can be found [on the course webpage](https://courses.cs.washington.edu/courses/cse493g1/24wi/assignments/) for Winter '24, under Assignment 2.
+## Overview of Assignment
 
+Writing backpropagation code, and training Neural Networks and Convolutional Neural Networks
 
-Please examine `collect_submission.ipynb` for detailed submission instructions.
+* Implement and apply a Two layer neural network classifier.
+* Understand the differences and tradeoffs between these classifiers.
+* Get a basic understanding of performance improvements from using higher-level representations as opposed to raw pixels, e.g. color histograms, Histogram of Oriented Gradient (HOG) features, etc.
+* Understand Neural Networks and how they are arranged in layered architectures.
+* Understand and be able to implement (vectorized) backpropagation.
+* Implement various update rules used to optimize Neural Networks.
