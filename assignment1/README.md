@@ -1,5 +1,10 @@
-## Assignment Instructions
-Details about this assignment can be found [on the course webpage](https://courses.cs.washington.edu/courses/cse493g1/24wi/assignments/) for Winter '24, under Assignment 1.
+## Overview of Assignment
 
+Putting together a simple image classification pipeline based on the k-Nearest Neighbor or the SVM/Softmax classifier. 
 
-Please examine `collect_submission.ipynb` for detailed submission instructions.
+* Understand the basic Image Classification pipeline and the data-driven approach (train/predict stages).
+* Understand the train/val/test splits and the use of validation data for hyperparameter tuning.
+* Develop proficiency in writing efficient vectorized code with numpy.
+* Implement and apply a k-Nearest Neighbor (kNN) classifier.
+* Implement and apply a Multiclass Support Vector Machine (SVM) classifier.
+* Implement and apply a Softmax classifier.
